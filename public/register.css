@@ -1,0 +1,29 @@
+body {
+    background-color: #6c757d;
+}
+
+label {
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.box {
+    background-color: white;
+    border-radius: 7px;
+    width: 800px;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding: 30px;
+    box-shadow: 5px 5px 5px;
+}
+
+.box h4 {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    font-size: 20px;
+    margin-top: 15px;
+}

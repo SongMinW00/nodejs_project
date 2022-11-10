@@ -1,0 +1,6 @@
+config
+bcryptjs
+base32
+passport
+passport-local
+express-session
